@@ -1,4 +1,4 @@
-# Ahoy-hoy! (side note - poor graham bell)
+# Hey! Waddup
 
 [LinkedIn](https://www.linkedin.com/in/maryam-shaikh-924867403/) | [Reach Me](maryamshaikh320@gmail.com)
 
