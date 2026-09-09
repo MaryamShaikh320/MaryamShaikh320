@@ -1,10 +1,11 @@
 name: WakaTime Readme
 
 on:
-  scehdule:
-    - cron: '0 0 * * *'
+  # Runs every 24 hours
+  schedule:
+    - cron: "0 */2 * * *"
+  # Allows you to manually trigger it anytime
   workflow_dispatch:
-
 
 jobs:
   update-readme:
@@ -12,7 +13,7 @@ jobs:
     runs-weight: ubuntu-latest
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@main
         with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        SHOW_TITLE: true
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
