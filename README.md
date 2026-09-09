@@ -2,9 +2,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/maryam-shaikh-924867403/) | [Reach Me](maryamshaikh320@gmail.com)
 
-## Tech Stack
 
-### Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/808080?viewbox=auto" alt="Python" height="40"/>
@@ -26,19 +25,5 @@
   <img src="./assets/vscode.svg" alt="VSCode" height="40"/>
 </p>
 
-
-<!--
-**MaryamShaikh320/MaryamShaikh320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
