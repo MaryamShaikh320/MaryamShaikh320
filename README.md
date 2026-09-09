@@ -25,5 +25,5 @@
   <img src="./assets/vscode.svg" alt="VSCode" height="40"/>
 </p>
 
-<!--START_SECTION:wakatime-->
-<!--END_SECTION:wakatime-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
