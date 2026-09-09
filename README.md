@@ -29,14 +29,12 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2059%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌆 Daytime                2902 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-🌃 Evening                5974 commits        ██████████████░░░░░░░░░░░   56.80 % 
+🌞 Morning                1633 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌆 Daytime                2906 commits        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌃 Evening                5974 commits        ██████████████░░░░░░░░░░░   56.78 % 
 🌙 Night                  8 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -44,10 +42,10 @@
 ```text
 Monday                   2129 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 Tuesday                  343 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Wednesday                2339 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Thursday                 1936 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Wednesday                2343 commits        ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Thursday                 1936 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 Friday                   4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Saturday                 3567 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Saturday                 3567 commits        ████████░░░░░░░░░░░░░░░░░   33.90 % 
 Sunday                   199 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
@@ -56,6 +54,9 @@ Sunday                   199 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
@@ -74,10 +75,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/MaryamShaikh320/MaryamShaikh320/main/assets/bar_graph.png)
-
-
- Last Updated on 09/09/2026 20:41:17 UTC
+ Last Updated on 09/09/2026 21:08:19 UTC
 <!--END_SECTION:waka-->
