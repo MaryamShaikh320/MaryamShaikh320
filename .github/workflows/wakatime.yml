@@ -1,16 +1,13 @@
 name: WakaTime Readme
 
 on:
-  # Runs every 24 hours
   schedule:
     - cron: "0 */2 * * *"
-  # Allows you to manually trigger it anytime
   workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update WakaTime Stats
-    runs-weight: ubuntu-latest
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@main
