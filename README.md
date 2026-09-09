@@ -25,6 +25,9 @@
   <img src="./assets/vscode.svg" alt="VSCode" height="40"/>
 </p>
 
+## Waka Metrics
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2059%20mins-blue?style=flat)
 
