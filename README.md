@@ -6,41 +6,22 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23808080" alt="Java2" width="65">
-  <img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%23808080" alt="Python2" width="45">
+  <img src="https://api.iconify.design/mdi:language-java.svg?color=%234e4d56" alt="Java2" width="63">
+  <img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%234e4d56" alt="Python2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/mdi:language-cpp.svg?color=%23808080" alt="CPP2" width="45">
+  <img src="https://api.iconify.design/mdi:language-cpp.svg?color=%234e4d56" alt="CPP2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/griddy-icons:html-5.svg?color=%23808080" alt="HTML2" width="45">
+  <img src="https://api.iconify.design/griddy-icons:html-5.svg?color=%234e4d56" alt="HTML2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/fa6-brands:css.svg?color=%23808080" alt="CSS2" width="35">
+  <img src="https://api.iconify.design/fa6-brands:css.svg?color=%234e4d56" alt="CSS2" width="35">
   &thinsp;
-  <img src="https://api.iconify.design/devicon-plain:opencv.svg?color=%23808080" alt="OpenCV2" width="45">
+  <img src="https://api.iconify.design/devicon-plain:opencv.svg?color=%234e4d56" alt="OpenCV2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/arcticons:git.svg?color=%23808080" alt="Git" width="45">
+  <img src="https://api.iconify.design/arcticons:git.svg?color=%234e4d56" alt="Git" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23808080" alt="GitHub" width="35">
+  <img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%234e4d56" alt="GitHub" width="38">
   &thinsp;
-  <img src="https://api.iconify.design/akar-icons:vscode-fill.svg?color=%23808080" alt="VSCode" width="35">
-
-
-  <img src="https://cdn.simpleicons.org/python/4E4D56?viewbox=auto" alt="Python" height="40"/>
-  <img src="./assets/java.svg" alt="Java" height="50"/>
-  <img src="https://cdn.simpleicons.org/cplusplus/4E4D56?viewbox=auto" alt="C++" height="40"/>
-  &thinsp;
-  <img src="https://cdn.simpleicons.org/html5/4E4D56?viewbox=auto" alt="HTML" height="40">
-  &thinsp;
-  <img src="https://cdn.simpleicons.org/css/4E4D56?viewbox=auto" alt="CSS" height="40">
-  &thinsp;
-  <img src="https://cdn.simpleicons.org/opencv/4E4D56?viewbox=auto" alt="OpenCV" height="40"/>
-  &thinsp;
-  <img src="./assets/wpilib.svg" alt="WPILib" height="45"/>
-  &thinsp;
-  <img src="https://cdn.simpleicons.org/git/4E4D56?viewbox=auto" alt="Git" height="40"/>
-  &thinsp;
-  <img src="https://cdn.simpleicons.org/github/4E4D56?viewbox=auto" alt="GitHub" height="40"/>
-  &thinsp;
-  <img src="./assets/vscode.svg" alt="VSCode" height="40"/>
+  <img src="https://api.iconify.design/akar-icons:vscode-fill.svg?color=%234e4d56" alt="VSCode" width="38">
 </p>
 
 ## Waka Metrics
