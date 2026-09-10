@@ -8,6 +8,7 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/4E4D56?viewbox=auto" alt="Python" height="40"/>
   <img src="./assets/java.svg" alt="Java" height="50"/>
+  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23808080" alt="Java2" height="40">
   <img src="https://cdn.simpleicons.org/cplusplus/4E4D56?viewbox=auto" alt="C++" height="40"/>
   &thinsp;
   <img src="https://cdn.simpleicons.org/html5/4E4D56?viewbox=auto" alt="HTML" height="40">
