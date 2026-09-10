@@ -6,22 +6,22 @@
 ## Languages and Tools
 
 <p align="left">
-  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23808080" alt="Java2" width="70">
-  <img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%23808080" alt="Python2" width="50">
+  <img src="https://api.iconify.design/mdi:language-java.svg?color=%23808080" alt="Java2" width="65">
+  <img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%23808080" alt="Python2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/mdi:language-cpp.svg?color=%23808080" alt="CPP2" width="50">
+  <img src="https://api.iconify.design/mdi:language-cpp.svg?color=%23808080" alt="CPP2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/griddy-icons:html-5.svg?color=%23808080" alt="HTML2" width="50">
+  <img src="https://api.iconify.design/griddy-icons:html-5.svg?color=%23808080" alt="HTML2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/fa6-brands:css.svg?color=%23808080" alt="CSS2" width="40">
+  <img src="https://api.iconify.design/fa6-brands:css.svg?color=%23808080" alt="CSS2" width="35">
   &thinsp;
-  <img src="https://api.iconify.design/devicon-plain:opencv.svg?color=%23808080" alt="OpenCV2" width="50">
+  <img src="https://api.iconify.design/devicon-plain:opencv.svg?color=%23808080" alt="OpenCV2" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/arcticons:git.svg?color=%23808080" alt="Git" width="50">
+  <img src="https://api.iconify.design/arcticons:git.svg?color=%23808080" alt="Git" width="45">
   &thinsp;
-  <img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23808080" alt="GitHub" width="40">
+  <img src="https://api.iconify.design/akar-icons:github-fill.svg?color=%23808080" alt="GitHub" width="35">
   &thinsp;
-  <img src="https://api.iconify.design/akar-icons:vscode-fill.svg?color=%23808080" alt="VSCode" width="40">
+  <img src="https://api.iconify.design/akar-icons:vscode-fill.svg?color=%23808080" alt="VSCode" width="35">
 
 
   <img src="https://cdn.simpleicons.org/python/4E4D56?viewbox=auto" alt="Python" height="40"/>
