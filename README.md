@@ -53,18 +53,18 @@ Sunday                   202 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 48 mins        █████████████████░░░░░░░░   68.27 % 
-Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+YAML                     1 hr 54 mins        ███████████░░░░░░░░░░░░░░   43.91 % 
+Python                   1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.96 % 
+Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Image (svg)              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MaryamShaikh320          2 hrs 38 mins       █████████████████████████   99.54 % 
-BallTracking-MiniProject 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+MaryamShaikh320          2 hrs 43 mins       ████████████████░░░░░░░░░   63.04 % 
+BallTracking-MiniProject 1 hr 36 mins        █████████░░░░░░░░░░░░░░░░   36.96 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,5 +80,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 08:37:45 UTC
+ Last Updated on 11/09/2026 14:07:14 UTC
 <!--END_SECTION:waka-->
