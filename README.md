@@ -53,19 +53,19 @@ Sunday                   206 commits         ░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   35.72 % 
-Python                   1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-HTML                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Markdown                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   1 hr 35 mins        ██████████████░░░░░░░░░░░   54.39 % 
+HTML                     1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   41.51 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MaryamShaikh320          2 hrs 43 mins       █████████████░░░░░░░░░░░░   51.28 % 
-BallTracking-MiniProject 1 hr 36 mins        ████████░░░░░░░░░░░░░░░░░   30.07 % 
-personal-website         59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+BallTracking-MiniProject 1 hr 35 mins        ██████████████░░░░░░░░░░░   54.39 % 
+personal-website         1 hr 14 mins        ███████████░░░░░░░░░░░░░░   42.44 % 
+MaryamShaikh320          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 **I Mostly Code in Java** 
@@ -81,5 +81,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 09:16:51 UTC
+ Last Updated on 17/09/2026 14:45:50 UTC
 <!--END_SECTION:waka-->
