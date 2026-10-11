@@ -53,15 +53,13 @@ Sunday                   209 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     26 mins             ██████████████████░░░░░░░   70.44 % 
-CSS                      11 mins             ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CSS                      4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-personal-website         37 mins             █████████████████████████   100.00 % 
+personal-website         4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -77,5 +75,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 08:18:40 UTC
+ Last Updated on 11/10/2026 16:11:31 UTC
 <!--END_SECTION:waka-->
