@@ -53,13 +53,13 @@ Sunday                   212 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-personal-website         4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +75,5 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 08:52:39 UTC
+ Last Updated on 15/10/2026 14:43:54 UTC
 <!--END_SECTION:waka-->
